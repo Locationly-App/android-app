@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Locationly</string>
+    <string name="signin">Sign In</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="not_sign_up">Don\'t have an Account?</string>
+    <string name="sign_up">Sign up</string>
 </resources>
